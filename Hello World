@@ -1,0 +1,7 @@
+echo "# Kristian-Salcedo" >> README.md
+git init
+git add README.md
+git commit -m "Hello World"
+git branch -M main
+git remote add origin https://github.com/Kristian122594/Kristian-Salcedo.git
+git push -u origin main
